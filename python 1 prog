@@ -1,0 +1,18 @@
+a=int(input("enter 1 number:"))
+b=int(input("enter second number:"))
+sum=a+b
+sub=a-b
+mul=a*b
+div=a/b
+print("the sum is",sum)
+print("the sub is",sub)
+print("the mul is ",mul)
+print("the div is",div)
+
+output:
+enter 1 number:4
+enter second number:44
+the sum is 48
+the sub is -40
+the mul is  176
+the div is 0.09090909090909091
