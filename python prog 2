@@ -1,0 +1,14 @@
+# Rectangle area
+l = float(input("Rectangle length: "))
+w = float(input("Rectangle width: "))
+print("Rectangle area:", l * w)
+
+# Square area
+s = float(input("Square side: "))
+print("Square area:", s * s)
+output:
+Rectangle length: 14
+Rectangle width: 25
+Rectangle area: 350.0
+Square side: 5
+Square area: 25.0
